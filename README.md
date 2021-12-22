@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hetti219
-- 👀 I’m interested in Video Game Designing
-- 🌱 I’m currently learning BCS Certificate Level & an Advanced Web Developmet Course
+- 👀 I’m interested in Video Game Development
+- 🌱 I’m currently learning BCS Certificate Level
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
