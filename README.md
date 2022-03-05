@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hetti219
-- 👀 I’m interested in Video Game Development
+- 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning BCS Certificate Level
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
