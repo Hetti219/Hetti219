@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hetti219
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning BCS Certificate Level
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
