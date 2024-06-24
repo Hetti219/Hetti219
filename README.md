@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **Flutter and Cybersecurity Essentials**
 
+- 👨‍💻 All of my projects are available at [https://hetti219.github.io/](https://hetti219.github.io/)
+
 - 📫 How to reach me **sathikahettiarachchi219@gmail.com**
+  
+- ⚡ Fun fact **I like anime and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
