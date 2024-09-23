@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetti219&" alt="hetti219" /></p>
 
-<p><img align="right" src="https://tryhackme-badges.s3.amazonaws.com/TendoRonin.png" alt="TryHackMe"></p>
+<p>&nbsp;<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/TendoRonin.png" alt="TryHackMe"></p>
