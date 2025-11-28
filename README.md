@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sathikah219" target="blank"><img src="https://img.shields.io/twitter/follow/sathikah219?logo=twitter&style=for-the-badge" alt="sathikah219" /></a> </p>
 
-- 🔭 I’m currently working on [Fulminant](https://github.com/Hetti219/fulminant_c)
+- 🔭 I’m currently working on [DTVN](https://github.com/Hetti219/DTVN)
 
-- 🌱 I’m currently learning **blockchain development**
+- 🌱 I’m currently learning **Distributed Systems Programming**
 
 - 🤝 I’m looking for help with **zero-knowledge proofs**
 
